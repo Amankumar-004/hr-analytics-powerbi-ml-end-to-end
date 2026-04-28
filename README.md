@@ -22,7 +22,7 @@ Advanced DAX & Power Query: Custom measures and hierarchies (Management Span, Or
 
 Automated Risk Scoring: A Python pipeline that exports "Smart Data" directly for BI consumption.
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 Data Analysis: Python (Pandas, NumPy)
 
@@ -32,7 +32,7 @@ Visualization: Microsoft Power BI
 
 Database: Flat CSV (IBM HR Analytics)
 
-📊 Dashboard Previews
+**📊 Dashboard Previews**
 
 (Note: Replace these placeholders with your actual dashboard screenshots)
 
@@ -47,8 +47,7 @@ Page 3: AI Predictive Watchlist
 
 
 
-
-🧪 Machine Learning Insights
+**🧪** Machine Learning Insights****
 
 Our model identified the top four drivers of attrition:
 
@@ -60,18 +59,18 @@ Manager Friction: New manager-employee relationships (< 1 year) show high "Veter
 
 Income Stress: Entry-level roles earning <$3,000/month are the most volatile segment.
 
-🚀 Installation & Usage
+**🚀 Installation & Usage**
 
 Clone the Repo:
 
-git clone [https://github.com/](https://github.com/)[Your-Username]/hr-attrition-predictive-analytics.git
+git clone https://github.com/Amankumar-004/hr-attrition-predictive-analytics.git
 
 
 Run the Analysis: Open the IBM_HR_Attrition_Analysis.ipynb in Jupyter Notebook to see the ML pipeline.
 
 Open the Dashboard: Use Power BI Desktop to open HR_Dashboard.pbix. Ensure the data source points to the HR_Final_Dashboard_Data_V2.csv.
 
-📈 Strategic Recommendations
+**📈 Strategic Recommendations**
 
 Proactive Stay Interviews: Engage the Top 10 High-Risk IDs from the Page 3 Watchlist.
 
@@ -79,12 +78,10 @@ Overtime Caps: Implement mandatory caps in high-burnout departments (Sales & R&D
 
 Leadership Handovers: Mandate a 30-day transition period for manager changes to ensure stability.
 
-🤝 Contributing
+**🤝 Contributing**
 
 Contributions are welcome! If you have suggestions for improving the model accuracy (e.g., SMOTE implementation) or the dashboard UI, feel free to open an issue or pull request.
 
-Author: [Your Name]
+Author: Aman K PRajapati
 
-Institute: [Your Institute]
-
-Connect with me: [LinkedIn Link] | [Portfolio Link]
+Connect with me: https://www.linkedin.com/in/amanprajapati004/
