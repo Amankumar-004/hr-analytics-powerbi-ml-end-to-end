@@ -1,15 +1,13 @@
-**HR Attrition Predictive Analytics & Strategy Dashboard 🚀
-**
+**HR Attrition Predictive Analytics & Strategy Dashboard 🚀**
 
-**📌 Project Overview
-**
+**📌 Project Overview**
 
 This project addresses the critical business challenge of employee turnover. By leveraging the IBM HR Analytics dataset, I developed an end-to-end solution that transitions HR from reactive exit interviews to proactive AI-driven retention.
 
 Using Machine Learning (SVM/Logistic Regression), the system assigns a Risk Score (0-100%) to every current employee. These insights are visualized in a 3-page interactive Power BI Dashboard, enabling stakeholders to identify high-risk individuals and the specific root causes (burnout, stagnation, or pay inequity) before they resign.
 
-**🌟 Key Features
-**
+**🌟 Key Features**
+
 
 Predictive AI Modeling: Achieved ~90% accuracy using a Support Vector Machine (SVM) classifier.
 
@@ -70,7 +68,7 @@ Income Stress: Entry-level roles earning <$3,000/month are the most volatile seg
 
 Clone the Repo:
 
-git clone https://github.com/Amankumar-004/hr-attrition-predictive-analytics.git
+git clone https://github.com/Amankumar-004/hr-analytics-powerbi-ml-end-to-end
 
 
 Run the Analysis: Open the IBM_HR_Attrition_Analysis.ipynb in Jupyter Notebook to see the ML pipeline.
