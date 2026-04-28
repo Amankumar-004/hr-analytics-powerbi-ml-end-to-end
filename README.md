@@ -91,6 +91,6 @@ Leadership Handovers: Mandate a 30-day transition period for manager changes to 
 
 Contributions are welcome! If you have suggestions for improving the model accuracy (e.g., SMOTE implementation) or the dashboard UI, feel free to open an issue or pull request.
 
-Author: Aman K PRajapati
+Author: Aman K Prajapati
 
 Connect with me: https://www.linkedin.com/in/amanprajapati004/
