@@ -1,12 +1,15 @@
-HR Attrition Predictive Analytics & Strategy Dashboard 🚀
+**HR Attrition Predictive Analytics & Strategy Dashboard 🚀
+**
 
-📌 Project Overview
+**📌 Project Overview
+**
 
 This project addresses the critical business challenge of employee turnover. By leveraging the IBM HR Analytics dataset, I developed an end-to-end solution that transitions HR from reactive exit interviews to proactive AI-driven retention.
 
 Using Machine Learning (SVM/Logistic Regression), the system assigns a Risk Score (0-100%) to every current employee. These insights are visualized in a 3-page interactive Power BI Dashboard, enabling stakeholders to identify high-risk individuals and the specific root causes (burnout, stagnation, or pay inequity) before they resign.
 
-🌟 Key Features
+**🌟 Key Features
+**
 
 Predictive AI Modeling: Achieved ~90% accuracy using a Support Vector Machine (SVM) classifier.
 
@@ -24,6 +27,7 @@ Automated Risk Scoring: A Python pipeline that exports "Smart Data" directly for
 
 **🛠 Tech Stack**
 
+
 Data Analysis: Python (Pandas, NumPy)
 
 Machine Learning: Scikit-Learn (Logistic Regression, SVM, Random Forest)
@@ -33,6 +37,7 @@ Visualization: Microsoft Power BI
 Database: Flat CSV (IBM HR Analytics)
 
 **📊 Dashboard Previews**
+
 
 (Note: Replace these placeholders with your actual dashboard screenshots)
 
@@ -59,7 +64,9 @@ Manager Friction: New manager-employee relationships (< 1 year) show high "Veter
 
 Income Stress: Entry-level roles earning <$3,000/month are the most volatile segment.
 
+
 **🚀 Installation & Usage**
+
 
 Clone the Repo:
 
@@ -70,7 +77,9 @@ Run the Analysis: Open the IBM_HR_Attrition_Analysis.ipynb in Jupyter Notebook t
 
 Open the Dashboard: Use Power BI Desktop to open HR_Dashboard.pbix. Ensure the data source points to the HR_Final_Dashboard_Data_V2.csv.
 
+
 **📈 Strategic Recommendations**
+
 
 Proactive Stay Interviews: Engage the Top 10 High-Risk IDs from the Page 3 Watchlist.
 
@@ -78,7 +87,9 @@ Overtime Caps: Implement mandatory caps in high-burnout departments (Sales & R&D
 
 Leadership Handovers: Mandate a 30-day transition period for manager changes to ensure stability.
 
+
 **🤝 Contributing**
+
 
 Contributions are welcome! If you have suggestions for improving the model accuracy (e.g., SMOTE implementation) or the dashboard UI, feel free to open an issue or pull request.
 
