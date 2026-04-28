@@ -73,7 +73,7 @@ git clone https://github.com/Amankumar-004/hr-analytics-powerbi-ml-end-to-end
 
 Run the Analysis: Open the IBM_HR_Attrition_Analysis.ipynb in Jupyter Notebook to see the ML pipeline.
 
-Open the Dashboard: Use Power BI Desktop to open HR_Dashboard.pbix. Ensure the data source points to the HR_Final_Dashboard_Data_V2.csv.
+Open the Dashboard: Use Power BI Desktop to open HR_Attrition_Dashboard.pbix. Ensure the data source points to the HR clean dataset.csv.
 
 
 **📈 Strategic Recommendations**
